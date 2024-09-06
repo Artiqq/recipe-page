@@ -77,7 +77,6 @@ p {
 }
 
 hr {
-  margin: 1.5rem 0;
   border: 1px solid var(--stone-150);
 }
 
@@ -157,6 +156,10 @@ ol li span {
 
 .recipe-instructions ol li::marker {
   color: var(--brown);
+}
+
+.recipe-nutri {
+  margin-top: 32px;
 }
 
 .recipe-nutri p {
